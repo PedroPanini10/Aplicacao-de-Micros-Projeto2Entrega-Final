@@ -1,8 +1,8 @@
 # Projeto 2: Aferidor de Temperatura de Forno Industrial
 **Disciplina:** SEL0433 - Aplicação de Microprocessadores  
-**Autores:** Pedro da Silva Panini nºusp:15483543
-             Lucas Gomes Pacheco nºusp:15697253
-             Carlos Eduardo Cintra Siqueira Rodrigues de Mattos nºusp:15445279
+**Autores:** Pedro da Silva Panini nºusp:15483543;
+             Lucas Gomes Pacheco nºusp:15697253;
+             Carlos Eduardo Cintra Siqueira Rodrigues de Mattos nºusp:15445279.
 
 ## Introdução
 Este projeto consiste no desenvolvimento de um sistema embarcado para aferição de temperatura e tempo de um forno industrial, utilizando o microcontrolador PIC18F4550. O objetivo é monitorar a temperatura interna simulada por um sensor (potenciômetro) e exibir os dados em um display LCD durante um período predeterminado pelo usuário, implementando timers, interrupções e conversão analógico-digital (ADC).
